@@ -93,6 +93,15 @@
 
 ---
 
+## 📊 Stats & Coding Practice:
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishabhgujarati.rishabhgujarati)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgujarati&layout=compact&theme=default)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rishabhgujarati?theme=light&font=Lemonada&ext=heatmap)](https://leetcode.com/u/rishabhgujarati/)
+
+---
+
 ## 🌟 Fun Fact:
 I thrive at the intersection of **tech, creativity, and purpose** — whether building enterprise-grade software or flying drones over paddy fields.
-
